@@ -1,1 +1,2 @@
-This is a patch for transparent alsamixer in alsa-utils-1.0.27.1  Slackware 14.1
+This is a patch is ment to patch  alsa-utils-1.0.27.1  Slackware64 14.1
+to make alsamixer and equalizer background transparent
